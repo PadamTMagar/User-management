@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    zoom: 1;
+}
+
+.formitem{
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px dashed #ccc;
+}
